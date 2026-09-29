@@ -1,11 +1,12 @@
-.one_button{
-    color:white;
-    background-color: gray;
-}
-.two_button{
-    background-color: purple;
-}
+.one_button,
 .all{
     font-family: Helvetica, 'Times New Roman', sans-serif;
     font-size: 28px;
+}
+.one_button{
+    background-color: black;
+    color:white;
+}
+.all{
+    background-color: purple;
 }
