@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.one_button{
+    color:white;
+    background-color: gray;
+}
+.two_button{
+    background-color: purple;
+}
+.all{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
